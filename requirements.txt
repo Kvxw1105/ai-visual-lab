@@ -1,0 +1,6 @@
+# 基础视觉工具；接受的项目再单独锁定精确版本。
+numpy>=1.26
+opencv-python>=4.8
+Pillow>=10
+scipy>=1.11
+matplotlib>=3.8

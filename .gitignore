@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+build/
+renders/
+output/
+cache/
+*.blend1
+*.blend@
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
